@@ -1,0 +1,6 @@
+-- I DO NOT OWN THIS SCRIPT AND DO NOT CLAIM AS THE OWNER OF THE SCRIPT
+
+-- DEFAULT CMD BAR PREFIX IS ;
+-- DEFAULT CHAT PREFIX IS /
+_G.UI_Id = "default" --set this to "default" for the deafult ui
+loadstring(game:HttpGet('https://raw.githubusercontent.com/DigitalyScripts/roblox-scripts/main/Proton%20Free'))()
